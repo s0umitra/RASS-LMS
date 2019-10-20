@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LMS</string>
+    <string name="country_prompt">Choose a REASON</string>
+    <string-array name="country_arrays">
+        <item>Family Function</item>
+        <item>Sickness</item>
+        <item>Tourism</item>
+        <item>Transport Problems</item>
+        <item>Babysitter</item>
+        <item>Personal Reasons</item>
+        <item>Other</item>
+    </string-array>
+</resources>
